@@ -81,11 +81,13 @@ Abra o chat da sua IDE e utilize os comandos da Métis:
   * Verifique se você tem permissão de escrita na pasta do Node.js ou use `sudo`.
 
 -----
-
+## LEGAL
 <div align="center">
-  <i>Este repositório contém apenas os binários de distribuição.</i>
+  <i>
+Qualiters Club® é uma marca registrada.
+Copyright © 2025 Qualiters Club. Todos os direitos reservados.</i>
   <br><br>
   <a href="https://github.com/pricaimiTech">
-    <img src="https://img.shields.io/badge/Desenvolvido%20por-Priscila%20Caimi-black?style=for-the-badge&logo=github" alt="Priscila Caimi">
+    <img src="https://img.shields.io/badge/Desenvolvido%20por-Qualiters%20Club-black?style=for-the-badge&logo=github" alt="Qualiters Club©">
   </a>
 </div>
